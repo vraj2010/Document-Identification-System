@@ -1,3 +1,4 @@
+
 # 📄 Document Identification System
 
 A modern, responsive web application designed to **identify and classify documents** intelligently using a user-friendly interface. This project uses **React (with Vite)** for the frontend and is optimized for performance, scalability, and clean development workflows.
@@ -20,7 +21,6 @@ A modern, responsive web application designed to **identify and classify documen
 - [Scripts](#-scripts)
 - [Screenshots](#-screenshots)
 - [Contributing](#-contributing)
-- [License](#-license)
 
 ---
 
@@ -133,13 +133,6 @@ Interested in contributing? Here's how you can help:
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**.
-See the [LICENSE](LICENSE) file for more information.
-
----
-
 ## 🙋‍♂️ Author
 
 **Vraj Patel**
@@ -151,5 +144,5 @@ See the [LICENSE](LICENSE) file for more information.
 
 ```
 
-Let me know if you'd like to include CI/CD badges, backend API notes, or deployment instructions next!
+Let me know if you'd like help with a backend version, deploy setup, or UI enhancements!
 ```
