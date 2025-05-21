@@ -114,6 +114,8 @@ Document-Identification-System/
 ## 🖼️ Screenshots
 
 ![WebPage](https://github.com/user-attachments/assets/539a8fd0-a81c-4721-bd44-f8d5bf4f3e90)
+
+
 ![Output](https://github.com/user-attachments/assets/842e940f-20de-4f8c-a5b8-9f27d2b41975)
 
 
